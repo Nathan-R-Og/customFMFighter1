@@ -1,0 +1,14 @@
+{
+  "export": true,
+  "guid": "79d79936-6342-4d7c-beaf-762501b1d496",
+  "id": "GLOBAL",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
